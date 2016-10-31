@@ -48,6 +48,10 @@ Coming Soon: Audio Toolbox
 
 ##Prototype 
 
+Our first User Flow Prototype:
+
+![grooma-user-flow-p2](https://cloud.githubusercontent.com/assets/20737269/19841505/f8159688-9ec9-11e6-92a9-fd2509c24596.gif)
+
 Our first Vendor Flow Prototype:
 
 ![vendorflow1](https://cloud.githubusercontent.com/assets/20820597/19358334/5d7ee176-912a-11e6-905e-5d5a4e8ba189.gif)
